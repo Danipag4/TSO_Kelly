@@ -1,25 +1,25 @@
-,Avaliador Entregue,Nome,Tipo de Avaliação,Setor,Competencia,Pergunta,Auto Avaliação,Avaliador,Setores
-CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,COMPROMETIMENTO,Assume suas responsabilidades com total dedicação como se fosse dono do negócio.,4,4,Adm
-CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,COMPROMETIMENTO,Cumpre o que promete.,4,4,Adm
-CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,COMPROMETIMENTO,Pratica os valores da empresa.,4,4,Adm
-CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,COMPROMETIMENTO,"Realiza suas atividades, dentro do prazo previsto com o padrão de qualidade requerido.",4,4,Adm
-CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,COMUNICAÇÃO,Escuta ativamente colocando-se no lugar do outro.,4,4,Adm
-CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,COMUNICAÇÃO,Expressa suas ideias de forma clara.,3,3,Adm
-CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,COMUNICAÇÃO,Pergunta quando tem dúvidas.,4,3,Adm
-CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,COMUNICAÇÃO,Se esforça para compreender a mensagem recebida,4,4,Adm
-CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,ORGANIZAÇÃO,Busca soluções para problemas antes que se tornem graves.,4,3,Adm
-CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,ORGANIZAÇÃO,Prioriza tarefas de forma efetiva.,4,4,Adm
-CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,ORGANIZAÇÃO,Realiza um serviço com qualidade e eficiência.,4,4,Adm
-CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,ORGANIZAÇÃO,Trabalha em vários projetos sem se perder.,3,3,Adm
-CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,PROATIVIDADE,"Age prontamente, sem depender de instruções alheias.",4,3,Adm
-CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,PROATIVIDADE,Percebe quando vai ocorrer um problema. Antecipa ações para lidar com obstáculos prováveis.,4,3,Adm
-CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,PROATIVIDADE,Propõe melhorias nos processos para garantir maior otimização dos mesmos.,4,3,Adm
-CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,PROATIVIDADE,Tem iniciativa de fazer acontecer.,4,3,Adm
-CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,RESOLUÇÃO DE PROBLEMAS,"Analisa as questões de forma clara e objetiva, como um diagnóstico.",3,3,Adm
-CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,RESOLUÇÃO DE PROBLEMAS,Analisa de forma racional e inteligente os problemas.,3,3,Adm
-CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,RESOLUÇÃO DE PROBLEMAS,"Busca alternativas diferentes, ""pensa fora da caixa"".",3,3,Adm
-CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,RESOLUÇÃO DE PROBLEMAS,Se responsabiliza pela resolução dos problemas.,4,3,Adm
-CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,GESTÃO DE RECURSOS,Garante que os recursos certos estejam disponíveis na hora e no lugar certo.,3,4,Adm
-CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,GESTÃO DE RECURSOS,Cria alternativas possíveis e diferentes para utilização eficiente dos recursos disponíveis.,3,4,Adm
-CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,GESTÃO DE RECURSOS,Controla os custos para garantir um melhor resultado.,3,4,Adm
-CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,GESTÃO DE RECURSOS,"Identifica quais recursos são necessários, custos associados e como eles podem ser distribuídos da melhor forma.",3,4,Adm
+,Avaliador Entregue,Nome,Tipo de Avaliação,Setor,Competencia,Pergunta,Comentários,Auto Avaliação,Avaliador,Setores
+CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,COMPROMETIMENTO,Assume suas responsabilidades com total dedicação como se fosse dono do negócio.,Mostra grande comprometimento e senso de responsabilidade.,4,4,Adm
+CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,COMPROMETIMENTO,Cumpre o que promete., ,4,4,Adm
+CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,COMPROMETIMENTO,Pratica os valores da empresa.,Pratica os valores da empresa de forma consistente.,4,4,Adm
+CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,COMPROMETIMENTO,"Realiza suas atividades, dentro do prazo previsto com o padrão de qualidade requerido.","Cumpre prazos com excelência e qualidade, demonstrando organização e comprometimento.",4,4,Adm
+CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,COMUNICAÇÃO,Escuta ativamente colocando-se no lugar do outro., ,4,4,Adm
+CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,COMUNICAÇÃO,Expressa suas ideias de forma clara.,"Embora consiga transmitir suas ideias, há momentos em que a mensagem não fica totalmente clara. Recomenda-se trabalhar na estruturação do pensamento e na escolha de palavras para garantir que a comunicação seja mais objetiva e compreensível.",3,3,Adm
+CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,COMUNICAÇÃO,Pergunta quando tem dúvidas., ,4,3,Adm
+CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,COMUNICAÇÃO,Se esforça para compreender a mensagem recebida, ,4,4,Adm
+CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,ORGANIZAÇÃO,Busca soluções para problemas antes que se tornem graves.,"Demonstra boa iniciativa ao identificar problemas antes que se agravem. Embora ainda haja espaço para aprimorar essa habilidade, sua proatividade e vontade de aprender são evidentes. Com mais experiência, terá potencial para se tornar ainda mais eficiente em antecipar soluções.",4,3,Adm
+CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,ORGANIZAÇÃO,Prioriza tarefas de forma efetiva., ,4,4,Adm
+CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,ORGANIZAÇÃO,Realiza um serviço com qualidade e eficiência.,"Realiza um trabalho de maneira organizada, com qualidade e eficiência.",4,4,Adm
+CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,ORGANIZAÇÃO,Trabalha em vários projetos sem se perder.,"Consegue lidar com múltiplos projetos, mas precisa ter mais atenção durante períodos de alta demanda para evitar erros.",3,3,Adm
+CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,PROATIVIDADE,"Age prontamente, sem depender de instruções alheias.","Mostra iniciativa em algumas situações, mas ainda depende, em certa medida, de orientações externas para agir. Desenvolver maior proatividade e autonomia pode tornar seu desempenho mais ágil e eficiente.",4,3,Adm
+CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,PROATIVIDADE,Percebe quando vai ocorrer um problema. Antecipa ações para lidar com obstáculos prováveis.,"Demonstra certa capacidade de identificar potenciais problemas, mas ainda há espaço para melhorar na antecipação e planejamento de ações preventivas. Desenvolver essa habilidade pode contribuir para minimizar impactos negativos e garantir melhores resultados.",4,3,Adm
+CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,PROATIVIDADE,Propõe melhorias nos processos para garantir maior otimização dos mesmos.,"Embora ainda não tenha proposto melhorias nos processos. Com um pouco mais de iniciativa, acredito que suas ideias podem fazer a diferença. ",4,3,Adm
+CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,PROATIVIDADE,Tem iniciativa de fazer acontecer.,"Demonstra alguma iniciativa para realizar tarefas, mas ainda há espaço para ser mais proativo na busca por soluções e na execução de atividades de forma independente. Fortalecer essa habilidade pode contribuir para um desempenho mais consistente e assertivo.",4,3,Adm
+CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,RESOLUÇÃO DE PROBLEMAS,"Analisa as questões de forma clara e objetiva, como um diagnóstico.","Analisa as questões de forma clara, mas pode ser mais objetivo nas suas análises. Precisa focar nos pontos principais e ser mais direto. Tem um grande potencial, e acredito que com essa melhoria fará muita diferença.",3,3,Adm
+CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,RESOLUÇÃO DE PROBLEMAS,Analisa de forma racional e inteligente os problemas.,"Tem uma abordagem racional e inteligente. Para melhorar ainda mais, sugiro focar nos aspectos principais e ser mais detalhado nas observações.",3,3,Adm
+CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,RESOLUÇÃO DE PROBLEMAS,"Busca alternativas diferentes, ""pensa fora da caixa"".","Tem potencial para pensar fora da caixa, precisa explorar novas abordagens e ideias inovadoras.",3,3,Adm
+CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,RESOLUÇÃO DE PROBLEMAS,Se responsabiliza pela resolução dos problemas.,"Tem potencial para se responsabilizar mais pela resolução de problemas, precisa tomar iniciativa e buscar soluções. Com um pouco mas de proatividade, suas contribuições serão ainda mais valiosas.",4,3,Adm
+CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,GESTÃO DE RECURSOS,Garante que os recursos certos estejam disponíveis na hora e no lugar certo., ,3,4,Adm
+CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,GESTÃO DE RECURSOS,Cria alternativas possíveis e diferentes para utilização eficiente dos recursos disponíveis., ,3,4,Adm
+CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,GESTÃO DE RECURSOS,Controla os custos para garantir um melhor resultado., ,3,4,Adm
+CAMILA IANHEZ,Kelly Pereira,Camila Ianhez Barreira,Adm,Adm,GESTÃO DE RECURSOS,"Identifica quais recursos são necessários, custos associados e como eles podem ser distribuídos da melhor forma.", ,3,4,Adm
